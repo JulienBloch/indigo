@@ -16,7 +16,7 @@ resume: true
 resume-external: false
 resume-url: assets/Julien10-30-17Resume.pdf
 
-url: https://julienbloch.me
+url: http://julienbloch.me
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -34,10 +34,10 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+facebook: julien.bloch.3
+# twitter: mytwitter
 # google: mygoogle
-# instagram: myinstagram
+instagram: jbloched
 # pinterest: mypinterest
 linkedin: julien-bloch-54696573/
 # youtube: myyoutube
@@ -53,17 +53,17 @@ github: JulienBloch
 email: julien.b1206@gmail.com
 
 authors:
-    johndoe:
-        name: John Doe
+    julienbloch:
+        name: Julien Bloch
         bio: A Man who travels the world eating noodles
         external-image: false
-        picture: assets/images/profile.jpg
-        twitter: johndoe
+        # picture: assets/images/profile.jpg
+        # twitter: johndoe
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: normal
+width: large
 
 # if you don't need pagination, comment the *paginate* configs below
 # paginate: 5
@@ -102,4 +102,4 @@ plugins:
   - jekyll-admin
 
 jekyll-mentions:
-    base_url: https://github.com
+    # base_url: https://github.com
