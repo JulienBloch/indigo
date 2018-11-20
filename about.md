@@ -4,43 +4,31 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Julien is a Southern-Californian born scientist and engineer. From a young age he has been fascinated by the intersection of physical processes and consciousness. He pursued an understanding of these processes by completing degrees in Physics and  Cognitive Science at the University of California, Berkeley. While pursuing his studies he began conducting research in the Maharbiz group on novel methods of light delivery to optogenetic neurons. He fell in love with the research process and is now pursuing a PhD in Bioengineering at the University of Washington, where he is researching neural stimulation methodologies for neural rehabilitation and functional reorganization.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
+<p>In his free time, Julien enjoys travelling, reading, skiing, powerlifting, and brazilian jiu-jitsu. He has visited over 25 countries and speaks 3 languages. He likes eating sushi, ramen, dim sum, and steak. His favorite quote is by Henry David Thoreau, and goes:
+	<blockquote>I wanted to live deep and suck out all the marrow of life, to live so sturdily and Spartan -- like as to put to rout all that was not life, to cut a broad swath and shave close, to drive life into a corner, and reduce it to its lowest terms.</blockquote>
+</p>
+	
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
+	<li>Computer Vision Algorithms</li>
+	<li>Machine Learning Algorithms</li>
 	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>Keras</li>
+	<li>Tensorflow</li>
+	<li>Matlab</li>
+	<li>Swift</li>
+	<li>Java</li>
+	<li>Git</li>
+	<li>Startup Expertise</li>
 </ul>
 
-<h2>Projects</h2>
+<h2>Academics</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li>Bioengineering (Neural Engineering Track) PhD, University of Washington 2023</li>
+	<li>Physics BA, UC Berkeley 2017</li>
+	<li>Cognitive Science (Computational Modeling Concentration) BA, UC Berkeley 2017</li>
 </ul>
